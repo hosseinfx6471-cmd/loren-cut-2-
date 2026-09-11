@@ -1,0 +1,6 @@
+{
+  "name": "Loren Cut",
+  "description": "وب‌سایت شخصی و سیستم نوبت‌دهی آنلاین Loren Cut - رزرو آنلاین نوبت، مدیریت محتوا و ارتباط با مشتریان",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

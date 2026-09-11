@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /favicon*
+Allow: /apple-touch-icon.png
+Allow: /favicon.ico
+Allow: /favicon.svg
+
+User-agent: Googlebot-Image
+Allow: /
+
+Sitemap: https://lorencut.ir/sitemap.xml
